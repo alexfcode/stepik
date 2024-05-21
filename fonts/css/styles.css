@@ -1,0 +1,15 @@
+.h2class {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.h1class {
+    font-style: italic;
+    text-align: center;
+}
+
+.pclass {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    text-align: justify;
+}
