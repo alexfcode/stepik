@@ -1,0 +1,12 @@
+.goods_name {
+    margin: 10x 0;
+    padding: 10px;
+    line-height: 1;
+    border: 1px solid black;
+}
+
+.goods_description {
+    border: 1px solid red;
+    
+}
+
