@@ -1,12 +1,25 @@
-.goods_name {
-    margin: 10x 0;
-    padding: 10px;
-    line-height: 1;
-    border: 1px solid black;
+.product-item {
+    background-color: chocolate;
+    color: #fff;
+    padding: 10px 15px;
+    margin: 5px;
+
+    border-radius: 20%;
 }
 
-.goods_description {
-    border: 1px solid red;
+.product-item_title {
+    width: 50%;
+    height: auto;
+    box-sizing: border-box;
+
+
+    margin: 10x auto;
+    padding: 10px 15px;
+    /* line-height: 1;
+    border: 1px solid black; */
+}
+
+.product-item_description {
+    /* border: 1px solid red; */
     
 }
-
